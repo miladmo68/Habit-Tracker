@@ -14,8 +14,10 @@
 ## ​ Screenshot
 
 <p align="center">
-  <img width="1920" height="1080" alt="Habit-Tracker" src="https://github.com/user-attachments/assets/your-image-id.png" />
-</p>
+<img width="2881" height="1626" alt="Habit-Tracker" src="https://github.com/user-attachments/assets/5d01ff8f-f4cf-49de-b70e-4531ca6cf776" />
+
+  
+  </p>
 
 ---
 
