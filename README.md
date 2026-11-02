@@ -1,69 +1,65 @@
-<h1 align="center">⏱ Habit-Tracker</h1>
+<div align="center">
+
+# 📆 Habit Tracker
+
+A typed habit tracker built with React, Redux Toolkit and Material UI.
+
+<a href="https://miladmo68.github.io/Habit-Tracker/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/Habit-Tracker"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/Habit-Tracker](https://miladmo68.github.io/Habit-Tracker/)
+
+</div>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/Habit-Tracker/"><b>🔗 Live Demo</b></a> •
-  <a href="https://github.com/miladmo68/Habit-Tracker"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="Habit Tracker screenshot" width="100%" />
 </p>
 
-<p align="center">
-  A minimal and responsive habit-tracking app built with <b>React</b>, <b>Vite</b>, and styled with <b>Tailwind CSS</b>. Designed for quickly tracking daily habits in a clean, performant interface.
-</p>
+## ✨ Features
 
----
+- Add daily or weekly habits
+- Mark habits complete
+- Progress statistics
 
-## ​ Screenshot
+## 🛠️ Tech Stack
 
-<p align="center">
-<img width="2881" height="1626" alt="Habit-Tracker" src="https://github.com/user-attachments/assets/5d01ff8f-f4cf-49de-b70e-4531ca6cf776" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-  
-  </p>
+## 🚀 Getting Started
 
----
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
 
-## ​ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-latest-e07a5f?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-3-38b2ac?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-configured-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-setup-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
-</p>
-
----
-
-## ​ Features
-
-| Feature | Description |
-| --- | --- |
-|  **Habit Tracking** | Add, view, and complete habits effortlessly |
-|  **Clean Layout** | Simple UI focused on usability and clarity |
-|  **Responsive Design** | Optimized for mobile, tablet, and desktop |
-|  **Fast Performance** | Powered by Vite for quick build and HMR |
-|  **Linted Code** | Uses ESLint & Prettier for consistent coding style |
-
----
-
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
-
----
-
-## ​ Getting Started
+**Install and run**
 
 ```bash
-# 1) Clone the repository
 git clone https://github.com/miladmo68/Habit-Tracker.git
 cd Habit-Tracker
-
-# 2) Install dependencies
 npm install
-
-# 3) Run development server
 npm run dev
+```
 
-# 4) Build for production
-npm run build
+## 📁 Project Structure
+
+```
+Habit-Tracker/
+├── public/
+├── src/
+├── eslint.config.js
+├── index.html
+├── package.json
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
